@@ -153,7 +153,8 @@ img {
 
 .segundo-btn {
     cursor: pointer;
-    margin: 0 175px 0 175px;
+    /* margin: 0 160px 0 160px; */
+    margin: auto;
     margin-top: 32px;
     color: var(--Desaturated-blue);
     background-color: rgba(255, 255, 255, 0);
